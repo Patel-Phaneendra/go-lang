@@ -1,3 +1,3 @@
-module github.com/GoogleCloudPlatform/cloud-build-samples/golang
+module github.com/Patel-Phaneendra/golang
 
 go 1.15
